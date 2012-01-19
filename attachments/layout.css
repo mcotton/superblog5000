@@ -1,0 +1,17 @@
+body  {
+    background-color: #eeeeee;
+}
+
+ul  {
+    width: 700px;
+}
+
+li {
+    list-style-type: none;
+    text-decoration: none;
+    padding: 10px 10px 10px 10px;
+    margine: 10px 10px 10px 10px;
+    width: 300px;
+    height: 100px;
+    background-color: #ffffff;
+}
